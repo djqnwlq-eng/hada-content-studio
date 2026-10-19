@@ -13,6 +13,7 @@ FFmpeg는 GNU General Public License version 3(GPL v3)로 배포되며, 이 폴�
 | SHA-256 | `8684f4b00f94b85461884c3719382f1261f0d9eb3d59640a1f4ac0873616f968` |
 
 - 실행 파일에 함께 들어간 외부 라이브러리(x264·x265·libvpx 등)와 빌드 방법: https://www.gyan.dev/ffmpeg/builds/
+- **맥(Mac) 설치판**의 FFmpeg는 이 소스(6.1.1)를 x264와 함께 저희가 직접 만든 것입니다 — 만드는 방법과 x264 소스: [`../x264/`](../x264/)
 - GPL v3 전문: 앱 안 `THIRD-PARTY-NOTICES.txt` 끝 · https://www.gnu.org/licenses/gpl-3.0.html
 - HADA 콘텐츠 스튜디오 자체는 FFmpeg를 별도 프로그램으로 실행만 하며, FFmpeg와 하나의 프로그램으로 결합되어 있지 않습니다.
 
